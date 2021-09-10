@@ -1,0 +1,1882 @@
+{
+    "flightNumber": "1179",
+    "departureTime": "2020-11-22T15:30:00",
+    "departureLocation": "LAS",
+    "arrivalLocation": "IAH",
+    "rows": [
+        {
+            "rowNumber": "1",
+            "cabinClass": "First",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "1A",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "1B",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "1E",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "1F",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "2",
+            "cabinClass": "First",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "2A",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "2B",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "2E",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "2F",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "7",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "7A",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": null,
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "7B",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": null,
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "7C",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": null,
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "7D",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "7E",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "7F",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "8",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "8A",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "8B",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "8C",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "8D",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "8E",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "8F",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "9",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "9A",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "9B",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "9C",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "9D",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "9E",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "9F",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "10",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "10A",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "10B",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "10C",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "10D",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "10E",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "10F",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "11",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "11A",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "11B",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "11C",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "11D",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "11E",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "11F",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "12",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "12A",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "12B",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "12C",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "12D",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "12E",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "12F",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "14",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "14A",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "14B",
+                    "available": "true",
+                    "price": "2600",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "14C",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "14D",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "14E",
+                    "available": "true",
+                    "price": "2600",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "14F",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "15",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "15A",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "15B",
+                    "available": "true",
+                    "price": "2600",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "15C",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "15D",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "15E",
+                    "available": "true",
+                    "price": "2600",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "15F",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "20",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "20A",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "true"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "20B",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "true"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "20C",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "true"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "20D",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "true"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "20E",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "true"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "20F",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "true"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "21",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "21A",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "true"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "21B",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "true"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "21C",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "true"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "21D",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "true"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "21E",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "true"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "21F",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "true"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "22",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "22A",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "22B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "22C",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "22D",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "22E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "22F",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "23",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "23A",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "23B",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "23C",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "23D",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "23E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "23F",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "24",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "24A",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "24B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "24C",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "24D",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "24E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "24F",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "25",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "25A",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "25B",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "25C",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "25D",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "25E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "25F",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "26",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "26A",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "26B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "26C",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "26D",
+                    "available": "true",
+                    "price": "4200",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "26E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "26F",
+                    "available": "true",
+                    "price": "2700",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "27",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "27A",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "27B",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "27C",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "27D",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "27E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "27F",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "28",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "28A",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "28B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "28C",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "28D",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "28E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "28F",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "29",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "29A",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "29B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "29C",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "29D",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "29E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "29F",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "30",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "30A",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "30B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "30C",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "30D",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "30E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "30F",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "31",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "31A",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "31B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "31C",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "31D",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "31E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "31F",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "32",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "32A",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "32B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "32C",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "32D",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "32E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "32F",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "34",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "34A",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "34B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "34C",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "34D",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "34E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "34F",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "35",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "35A",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "35B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "35C",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "35D",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "35E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "35F",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "36",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "36A",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "36B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "36C",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "36D",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "36E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "36F",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "37",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "37A",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "37B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "37C",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "37D",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "37E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "37F",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "38",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "38A",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "38B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "38C",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "38D",
+                    "available": "true",
+                    "price": "1800",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "38E",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "38F",
+                    "available": "true",
+                    "price": "1300",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "39",
+            "cabinClass": "Economy",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "39A",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "39B",
+                    "available": "true",
+                    "price": "1200",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "39C",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Left",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "39D",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "39E",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Center",
+                        "inExitRow": "false"
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "39F",
+                    "available": "false",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "planeSection": "Right",
+                        "inExitRow": "false"
+                    }
+                }
+            ]
+        }
+    ]
+}

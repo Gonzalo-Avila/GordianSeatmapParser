@@ -1,0 +1,2227 @@
+{
+    "flightNumber": "1415",
+    "departureTime": "2021-08-2617:45",
+    "departureLocation": "FNC",
+    "arrivalLocation": "DUS",
+    "rows": [
+        {
+            "rowNumber": "7",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "7A",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "WINDOW",
+                            "AVAILABLE"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "7B",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "7C",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "7D",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "7E",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "7F",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "11",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "11A",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "11B",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "11C",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "11D",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "11E",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "11F",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "WING"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "12",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "12A",
+                    "available": "True",
+                    "price": "35.40",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "WING",
+                            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                            "EXIT",
+                            "LEG_SPACE_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "12B",
+                    "available": "True",
+                    "price": "35.40",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "WING",
+                            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                            "EXIT",
+                            "LEG_SPACE_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "12C",
+                    "available": "True",
+                    "price": "35.40",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "WING",
+                            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                            "EXIT",
+                            "LEG_SPACE_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "12D",
+                    "available": "True",
+                    "price": "35.40",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "WING",
+                            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                            "EXIT",
+                            "LEG_SPACE_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "12E",
+                    "available": "True",
+                    "price": "35.40",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "WING",
+                            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                            "EXIT",
+                            "LEG_SPACE_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "12F",
+                    "available": "True",
+                    "price": "35.40",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "WING",
+                            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                            "EXIT",
+                            "LEG_SPACE_SEAT"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "13",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "13A",
+                    "available": "True",
+                    "price": "35.40",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING",
+                            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                            "EXIT",
+                            "LEG_SPACE_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "13B",
+                    "available": "True",
+                    "price": "35.40",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING",
+                            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                            "EXIT",
+                            "LEG_SPACE_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "13C",
+                    "available": "True",
+                    "price": "35.40",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING",
+                            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                            "EXIT",
+                            "LEG_SPACE_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "13D",
+                    "available": "True",
+                    "price": "35.40",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING",
+                            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                            "EXIT",
+                            "LEG_SPACE_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "13E",
+                    "available": "True",
+                    "price": "35.40",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING",
+                            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                            "EXIT",
+                            "LEG_SPACE_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "13F",
+                    "available": "True",
+                    "price": "35.40",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING",
+                            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                            "EXIT",
+                            "LEG_SPACE_SEAT"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "14",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "14A",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "14B",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "14C",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "14D",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "14E",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "WING",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "14F",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "WING"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "15",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "15A",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "15B",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "15C",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "15D",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "15E",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "WING",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "15F",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "WING"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "8",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "8A",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "8B",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "8C",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "8D",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "8E",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "8F",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "WINDOW",
+                            "AVAILABLE"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "9",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "9A",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "9B",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "9C",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "9D",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "9E",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "9F",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "10",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "10A",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "10B",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "10C",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "10D",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "10E",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "10F",
+                    "available": "True",
+                    "price": "22.10",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_IN_A_QUIET_ZONE",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "22",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "22A",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "22B",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "22C",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "22D",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "22E",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "22F",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "23",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "23A",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "23B",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "23C",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "23D",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "23E",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "23F",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "16",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "16A",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "16B",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "WING",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "16C",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "16D",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "16E",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "16F",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "17",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "17A",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "17B",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "WING",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "17C",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "17D",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "17E",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "17F",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "18",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "18A",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "18B",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "WING",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "18C",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "18D",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "18E",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "18F",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "WING"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "19",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "19A",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "19B",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "19C",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "19D",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "19E",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "19F",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "20",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "20A",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "20B",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "20C",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "20D",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "20E",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "20F",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "21",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "21A",
+                    "available": "False",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "OCCUPIED"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "21B",
+                    "available": "False",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "PREFERENTIAL_SEAT",
+                            "OCCUPIED"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "21C",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "21D",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "21E",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "21F",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "24",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "24A",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "24B",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "24C",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "24D",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "24E",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "24F",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "25",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "25A",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "25B",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "25C",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "25D",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "25E",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "PREFERENTIAL_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "25F",
+                    "available": "True",
+                    "price": "17.70",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "26",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "26A",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "26B",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "PREFERENTIAL_SEAT",
+                            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "26C",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "26D",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "26E",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "PREFERENTIAL_SEAT",
+                            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "26F",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "27",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "27A",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "27B",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "27C",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "27D",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "27E",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "27F",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "28",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "28A",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "28B",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "28C",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "28D",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "28E",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "28F",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "29",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "29A",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "29B",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "29C",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "29D",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "29E",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "29F",
+                    "available": "True",
+                    "price": "11.50",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                            "WINDOW",
+                            "AVAILABLE",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rowNumber": "30",
+            "cabinClass": "NA",
+            "seats": [
+                {
+                    "type": "Seat",
+                    "id": "30A",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "30B",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "30C",
+                    "available": "True",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AVAILABLE",
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "SEAT_NOT_ALLOWED_FOR_INFANT",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                            "RESTRICTED_SEAT_GENERAL",
+                            "RESTRICTED",
+                            "REAR_FACING_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "30D",
+                    "available": "False",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "AISLE_SEAT",
+                            "SEAT_NOT_SUITABLE_FOR_CHILD",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "OCCUPIED",
+                            "REAR_FACING_SEAT",
+                            "CREW_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "30E",
+                    "available": "False",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "RESTRICTED_RECLINE_SEAT",
+                            "OCCUPIED",
+                            "REAR_FACING_SEAT",
+                            "CREW_SEAT"
+                        ]
+                    }
+                },
+                {
+                    "type": "Seat",
+                    "id": "30F",
+                    "available": "False",
+                    "price": "NA",
+                    "additionalInfo": {
+                        "seatProperties": [
+                            "WINDOW",
+                            "RESTRICTED_RECLINE_SEAT",
+                            "OCCUPIED",
+                            "REAR_FACING_SEAT",
+                            "CREW_SEAT"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
