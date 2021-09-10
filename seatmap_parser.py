@@ -31,7 +31,7 @@ def seatmap_parser_1(tree_root):
 			summary = seat_info.find(ns + 'Summary')
 			service = seat_info.find(ns + 'Service')
 			seat = {
-				# Apparently there's no info related to element type in the sample files, so I used a default value
+				# Apparently, there's no info related to element type in the sample files, so I used a default value
 				'type': 'Seat',
 				'id': summary.attrib.get('SeatNumber'),
 				'available': summary.attrib.get('AvailableInd'),
@@ -77,6 +77,7 @@ def seatmap_parser_2 (tree_root):
 	for row_info in rows_info:
 
 		row_number = row_info.find(ns + 'Number').text
+		# There's no info related to cabin class in this file
 		row = {'rowNumber': row_number, 'cabinClass': 'NA'}
 		seats = []
 		seats_info = row_info.iter(ns + 'Seat')
@@ -93,11 +94,11 @@ def seatmap_parser_2 (tree_root):
 			seat_offer_ref = seat_info.find(ns + 'OfferItemRefs')
 
 			seat = {
-				# Apparently there's no info related to element type in the sample files, so I used a default value
+				# Apparently, there's no info related to element type in the sample files, so I used a default value
 				'type': 'Seat',
 				'id': row_number + seat_info.find(ns + 'Column').text,
 				'available': str('SD4' in seat_definition_ids),
-				# In this file seat prices seem to depend on associated offers, and not every seat has one of them
+				# In this file, seat prices seem to depend on associated offers, and not every seat has one of them
 				'price': offers[seat_offer_ref.text] if seat_offer_ref is not None else 'NA',
 				# I tried to keep the same structure for both output files, saving some custom relevant fields in here
 				'additionalInfo': {
