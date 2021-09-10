@@ -8,7 +8,7 @@ def seatmap_parser_1(tree_root):
 
 	ns = '{http://www.opentravel.org/OTA/2003/05/common/}'
 
-	seat_map_response = tree_root.find('.//{http://www.opentravel.org/OTA/2003/05/common/}SeatMapResponse')
+	seat_map_response = tree_root.find('.//' + ns + 'SeatMapResponse')
 
 	flight_info = seat_map_response.find(ns+'FlightSegmentInfo')
 	flight = {}
